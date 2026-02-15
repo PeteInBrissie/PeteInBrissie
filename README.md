@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Pete 👋
 
-<!--
-**PeteInBrissie/PeteInBrissie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Brisbane-based technology strategist and builder with a decade working at the intersection of AI, infrastructure, and higher education.
 
-Here are some ideas to get you started:
+I'm interested in how AI actually gets adopted in organisations — not the demos, but the messy reality of integration, change management, and making it stick.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not thinking about that, I'm building things to scratch my own itches.
+
+## 🔨 What I'm building
+
+- **[ourgroceries-bridge](https://github.com/PeteInBrissie/ourgroceries-bridge)** — HTTP bridge connecting Claude to OurGroceries shopping lists, with an AI-powered meal planner. Runs self-hosted over Tailscale.
+- **BourdAIn** — A Claude-powered cooking assistant project (coming soon)
+
+## 🛠️ Stack I work with
+
+Node.js / TypeScript · Docker · PostgreSQL · Tailscale · Home Assistant · Anthropic Claude API

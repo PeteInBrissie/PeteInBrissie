@@ -2,7 +2,7 @@
 
 I'm a Brisbane-based technology strategist and builder with a decade working at the intersection of AI, infrastructure, and higher education.
 
-I'm interested in how AI actually gets adopted in organisations — not the demos, but the messy reality of integration, change management, and making it stick.
+I'm interested in how AI actually gets adopted in organisations - not the demos, but the messy reality of integration, change management, and making it stick.
 
 When I'm not thinking about that, I'm building things to scratch my own itches.
 

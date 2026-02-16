@@ -13,4 +13,4 @@ When I'm not thinking about that, I'm building things to scratch my own itches.
 
 ## 🛠️ Stack I work with
 
-Node.js / TypeScript · Docker · PostgreSQL · Tailscale · Home Assistant · Anthropic Claude API
+Node.js / TypeScript · Swift · Docker · PostgreSQL · Tailscale · Home Assistant · Anthropic Claude API

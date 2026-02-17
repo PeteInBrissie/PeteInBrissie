@@ -9,6 +9,7 @@ When I'm not thinking about that, I'm building things to scratch my own itches.
 ## 🔨 What I'm building
 
 - **[ourgroceries-bridge](https://github.com/PeteInBrissie/ourgroceries-bridge)** — HTTP bridge connecting Claude to OurGroceries shopping lists, with an AI-powered meal planner. Runs self-hosted over Tailscale.
+- **[ai-cooking-assistant](https://github.com/PeteInBrissie/ai-prompts/blob/main/prompts/ai-cooking-assistant.md)** — A Claude-powered cooking assistant project
 - **[ai-prompts](https://github.com/PeteInBrissie/ai-prompts)** — Collection of prompts I use with Claude.ai projects
 
 ## 🛠️ Stack I work with

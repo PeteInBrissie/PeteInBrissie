@@ -12,6 +12,10 @@ When I'm not thinking about that, I'm building things to scratch my own itches.
 - **[ai-cooking-assistant](https://github.com/PeteInBrissie/ai-prompts/blob/main/prompts/ai-cooking-assistant.md)** — A Claude-powered cooking assistant project
 - **[ai-prompts](https://github.com/PeteInBrissie/ai-prompts)** — Collection of prompts I use with Claude.ai or CoPilot projects
 
+## 🚧 Coming soon
+
+- **[japanesetutor](https://github.com/PeteInBrissie/japanesetutor)** — iOS app for learning Japanese from beginner to conversational level. SwiftUI + Claude AI + spaced repetition flashcards.
+
 ## 🛠️ Stack I work with
 
 Node.js / TypeScript · Swift · Docker · PostgreSQL · Tailscale · Home Assistant · Anthropic Claude API

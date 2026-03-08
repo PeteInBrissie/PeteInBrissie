@@ -14,7 +14,7 @@ When I'm not thinking about that, I'm building things to scratch my own itches.
 
 ## 🚧 Coming soon
 
-- **[japanesetutor](https://github.com/PeteInBrissie/japanesetutor)** — iOS app for learning Japanese from beginner to conversational level. SwiftUI + Claude AI + spaced repetition flashcards.
+- **Japanese Tutor** *(private)* — iOS app for learning Japanese from beginner to conversational level. SwiftUI + Claude AI + spaced repetition flashcards.
 
 ## 🛠️ Stack I work with
 

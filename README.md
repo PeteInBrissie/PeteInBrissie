@@ -27,7 +27,7 @@ When I'm not thinking about that, I'm building things to scratch my own itches â
 
 | Project | What it does |
 | --- | --- |
-| **[chatbot-ui](https://github.com/PeteInBrissie/chatbot-ui)** | A chat UI, [live on Vercel](https://chatbot-ui-eta-rouge.vercel.app). `TypeScript` |
+| **[chatbot-ui](https://github.com/PeteInBrissie/chatbot-ui)** | My build of a Next.js chat frontend for OpenAI models â€” [live on Vercel](https://chatbot-ui-eta-rouge.vercel.app). `TypeScript` |
 | **[ai-prompts](https://github.com/PeteInBrissie/ai-prompts)** | A collection of prompts I use with Claude and Copilot projects. |
 
 ---

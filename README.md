@@ -1,4 +1,4 @@
-# Pete Rooke 👋
+# Peter Rooke 👋
 
 **Technology strategist & builder — Brisbane, Australia 🇦🇺**
 
